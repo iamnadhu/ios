@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  My First App
+//  my-first-app
 //
 //  Created by Nadhu on 22/07/20.
 //  Copyright © 2020 Nadhu. All rights reserved.
