@@ -2,7 +2,8 @@
 
 
 > Sessions Order:
-> 1. My First App
+> 1. My First Playground
+> 2. My First App
 
 
 > Projects Order:
