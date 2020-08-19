@@ -2,6 +2,7 @@ import UIKit
 
 // Print "Hello, Playground"
 var str = "Hello, Playground"
+print(str)
 print("This is my first playground \n", str)
 
 //String Handling
