@@ -1,4 +1,4 @@
-# iOS [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/android-icon.png">](https://github.com/iamnadhu/nadhu014-android)
+# iOS [<img src="https://github.com/iamnadhu/nadhu014-android/blob/master/screenshots/ios-icon.png">](https://github.com/iamnadhu/nadhu014-android)
 Created by [Nadhu](https://github.com/iamnadhu)
 
 This is a small coding world for building your own 'iOS' Mobile Applications using 'Swift / Objective-C' Language and 'Xcode' IDE.
