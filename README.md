@@ -16,42 +16,33 @@ This Section includes three categories:
 
 
 ## Tutorials [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/tutorials-icon.png">](https://github.com/iamnadhu/n14-ios)
-
+>
 > 01. My First Playground ([link](https://github.com/iamnadhu/n14-ios/tree/master/tutorials/My%20First%20Playground))
 >
 > 02. My First App ([link](https://github.com/iamnadhu/n14-ios/tree/master/tutorials/My%20First%20App))
 >
 > 03. App
 >
-> 04. App
->
-> 05. App
 
 
 ## Sessions [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/sessions-icon.png">](https://github.com/iamnadhu/n14-ios)
-
+>
 > 01. App
 >
 > 02. App
 >
 > 03. App
 >
-> 04. App
->
-> 05. App
 
 
 ## Projects [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/projects-icon.png">](https://github.com/iamnadhu/n14-ios)
-
+>
 > 01. App
 >
 > 02. App
 >
 > 03. App
 >
-> 04. App
->
-> 05. App
 
 
 ## Author  [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/auther-icon.png">](https://github.com/iamnadhu)
@@ -72,5 +63,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License  [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/license-icon.png">](https://github.com/iamnadhu/Utils-N14)
+## License  [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/license-icon.png">](https://github.com/iamnadhu/n14-ios)
 Copyright © 2021 [Nadir Shah (Nadhu)](https://github.com/iamnadhu)
