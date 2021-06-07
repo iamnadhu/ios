@@ -4,37 +4,6 @@ Created by [Nadir Shah (Nadhu)](https://github.com/iamnadhu)
 This is an iOS mobile application development workspace.
 
 
-```
-This section includes three categories:
-1. Tutorials
-      It is mainly about basic ios (Eg: Components, Button Tap, Xib, Table View etc...)
-2. Sessions
-      It is focussed on advanced ios (Eg: Tap Gesture, Firebase Auth, Push Notifications etc...)
-3. Projects
-      This section contains simple projects used in our daily life (Eg: Chat Application, Shopping Cart, Restaurant App etc...) 
-```
-
-
-## Tutorials [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/tutorials-icon.png">](https://github.com/iamnadhu/iOS-N14)
->
-> [01. My First Playground](https://github.com/iamnadhu/iOS-N14/tree/master/tutorials/My%20First%20Playground)
->
-> [02. My First App](https://github.com/iamnadhu/iOS-N14/tree/master/tutorials/My%20First%20App)
->
-> [03. App](https://github.com/iamnadhu/iOS-N14)
->
-
-
-## Sessions [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/sessions-icon.png">](https://github.com/iamnadhu/iOS-N14)
->
-> [01. App](https://github.com/iamnadhu/iOS-N14)
->
-> [02. App](https://github.com/iamnadhu/iOS-N14)
->
-> [03. App](https://github.com/iamnadhu/iOS-N14)
->
-
-
 ## Projects [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/projects-icon.png">](https://github.com/iamnadhu/iOS-N14)
 >
 > [01. App](https://github.com/iamnadhu/iOS-N14)
