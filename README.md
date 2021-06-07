@@ -5,13 +5,13 @@ This is an iOS mobile application development workspace.
 
 
 ```
-This Section includes three categories:
+This section includes three categories:
 1. Tutorials
-      It's mainly about basic ios (eg: Components, Button Tap, Xib, Table View etc...)
+      It is mainly about basic ios (Eg: Components, Button Tap, Xib, Table View etc...)
 2. Sessions
-      It's focussed on advanced ios (eg: Tap Gesture, Firebase Auth, Push Notifications etc...)
+      It is focussed on advanced ios (Eg: Tap Gesture, Firebase Auth, Push Notifications etc...)
 3. Projects
-      This section contains simple projects in daily life (eg: Chat Application, Shopping Cart, Restaurant App etc...) 
+      This section contains simple projects used in our daily life (Eg: Chat Application, Shopping Cart, Restaurant App etc...) 
 ```
 
 
@@ -21,27 +21,27 @@ This Section includes three categories:
 >
 > [02. My First App](https://github.com/iamnadhu/n14-ios/tree/master/tutorials/My%20First%20App)
 >
-> ]03. App](https://github.com/iamnadhu/n14-ios)
+> [03. App](https://github.com/iamnadhu/n14-ios)
 >
 
 
 ## Sessions [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/sessions-icon.png">](https://github.com/iamnadhu/n14-ios)
 >
-> ]01. App](https://github.com/iamnadhu/n14-ios)
+> [01. App](https://github.com/iamnadhu/n14-ios)
 >
-> ]02. App](https://github.com/iamnadhu/n14-ios)
+> [02. App](https://github.com/iamnadhu/n14-ios)
 >
-> ]03. App](https://github.com/iamnadhu/n14-ios)
+> [03. App](https://github.com/iamnadhu/n14-ios)
 >
 
 
 ## Projects [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/projects-icon.png">](https://github.com/iamnadhu/n14-ios)
 >
-> ]01. App](https://github.com/iamnadhu/n14-ios)
+> [01. App](https://github.com/iamnadhu/n14-ios)
 >
-> ]02. App](https://github.com/iamnadhu/n14-ios)
+> [02. App](https://github.com/iamnadhu/n14-ios)
 >
-> ]03. App](https://github.com/iamnadhu/n14-ios)
+> [03. App](https://github.com/iamnadhu/n14-ios)
 >
 
 
