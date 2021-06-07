@@ -15,7 +15,7 @@ This section includes three categories:
 ```
 
 
-## #01: Tutorials [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/tutorials-icon.png">](https://github.com/iamnadhu/iOS-N14)
+### #01: Tutorials [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/tutorials-icon.png">](https://github.com/iamnadhu/iOS-N14)
 >
 > [01. App](https://github.com/iamnadhu/iOS-N14)
 >
@@ -25,7 +25,7 @@ This section includes three categories:
 >
 
 
-## #02: Sessions [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/sessions-icon.png">](https://github.com/iamnadhu/iOS-N14)
+### #02: Sessions [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/sessions-icon.png">](https://github.com/iamnadhu/iOS-N14)
 >
 > [01. App](https://github.com/iamnadhu/iOS-N14)
 >
@@ -35,7 +35,7 @@ This section includes three categories:
 >
 
 
-## #03: Projects [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/projects-icon.png">](https://github.com/iamnadhu/iOS-N14)
+### #03: Projects [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/projects-icon.png">](https://github.com/iamnadhu/iOS-N14)
 >
 > [01. App](https://github.com/iamnadhu/iOS-N14)
 >
