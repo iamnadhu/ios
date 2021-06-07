@@ -6,9 +6,9 @@ This is an iOS mobile application development workspace.
 
 ## Tutorials [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/tutorials-icon.png">](https://github.com/iamnadhu/iOS-N14/tree/master/Tutorials)
 >
-> [01. My First Playground](https://github.com/iamnadhu/iOS-N14/tree/master/Tutorials/My%20First%20Playground)
+> [01. App](https://github.com/iamnadhu/iOS-N14/tree/master/Tutorials)
 >
-> [02. My First App](https://github.com/iamnadhu/iOS-N14/tree/master/Tutorials/My%20First%20App)
+> [02. App](https://github.com/iamnadhu/iOS-N14/tree/master/Tutorials)
 >
 > [03. App](https://github.com/iamnadhu/iOS-N14/tree/master/Tutorials)
 >
