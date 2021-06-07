@@ -1,5 +1,5 @@
-# iOS [<img src="https://github.com/iamnadhu/n14-icons/blob/master/ios-icon.png">](https://github.com/iamnadhu/n14-ios)
-Created by [Nadhu](https://github.com/iamnadhu)
+# iOS [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/ios-icon.png">](https://github.com/iamnadhu/n14-ios)
+Created by [Nadir Shah (Nadhu)](https://github.com/iamnadhu)
 
 This is a small coding world for building your own 'iOS' Mobile Applications using 'Swift / Objective-C' Language and 'Xcode' IDE.
 
@@ -14,7 +14,7 @@ This Section includes three categories:
 ```
 
 
-## Tutorials [<img src="https://github.com/iamnadhu/n14-icons/blob/master/tutorials-icon.png">](https://github.com/iamnadhu/n14-ios)
+## Tutorials [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/tutorials-icon.png">](https://github.com/iamnadhu/n14-ios)
 
 > 01. My First Playground ([link](https://github.com/iamnadhu/n14-ios/tree/master/tutorials/My%20First%20Playground))
 >
@@ -27,7 +27,7 @@ This Section includes three categories:
 > 05. App
 
 
-## Sessions [<img src="https://github.com/iamnadhu/n14-icons/blob/master/sessions-icon.png">](https://github.com/iamnadhu/n14-ios)
+## Sessions [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/sessions-icon.png">](https://github.com/iamnadhu/n14-ios)
 
 > 01. App
 >
@@ -40,7 +40,7 @@ This Section includes three categories:
 > 05. App
 
 
-## Projects [<img src="https://github.com/iamnadhu/n14-icons/blob/master/projects-icon.png">](https://github.com/iamnadhu/n14-ios)
+## Projects [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/projects-icon.png">](https://github.com/iamnadhu/n14-ios)
 
 > 01. App
 >
