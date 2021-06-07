@@ -1,16 +1,16 @@
-# iOS [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/ios-icon.png">](https://github.com/iamnadhu/iOS-N14)
+# iOS [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/ios-icon.png">](https://github.com/iamnadhu/iOS-N14/tree/master/Projects)
 Created by [Nadir Shah (Nadhu)](https://github.com/iamnadhu)
 
 This is an iOS mobile application development workspace.
 
 
-## Projects [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/projects-icon.png">](https://github.com/iamnadhu/iOS-N14)
+## Projects [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/projects-icon.png">](https://github.com/iamnadhu/iOS-N14/tree/master/Projects)
 >
-> [01. App](https://github.com/iamnadhu/iOS-N14)
+> [01. App](https://github.com/iamnadhu/iOS-N14/tree/master/Projects)
 >
-> [02. App](https://github.com/iamnadhu/iOS-N14)
+> [02. App](https://github.com/iamnadhu/iOS-N14/tree/master/Projects)
 >
-> [03. App](https://github.com/iamnadhu/iOS-N14)
+> [03. App](https://github.com/iamnadhu/iOS-N14/tree/master/Projects)
 >
 
 
@@ -32,5 +32,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License  [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/license-icon.png">](https://github.com/iamnadhu/iOS-N14)
+## License  [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/license-icon.png">](https://github.com/iamnadhu/iOS-N14/tree/master/Projects)
 Copyright © 2021 [Nadir Shah (Nadhu)](https://github.com/iamnadhu)
