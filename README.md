@@ -1,7 +1,8 @@
 # iOS [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/ios-icon.png">](https://github.com/iamnadhu/n14-ios)
 Created by [Nadir Shah (Nadhu)](https://github.com/iamnadhu)
 
-This is a small coding world for building your own 'iOS' Mobile Applications using 'Swift / Objective-C' Language and 'Xcode' IDE.
+This is an iOS mobile application development workspace.
+
 
 ```
 This Section includes three categories:
