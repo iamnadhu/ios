@@ -1,4 +1,4 @@
-# iOS [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/ios-icon.png">](https://github.com/iamnadhu/n14-ios)
+# iOS [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/ios-icon.png">](https://github.com/iamnadhu/iOS-N14)
 Created by [Nadir Shah (Nadhu)](https://github.com/iamnadhu)
 
 This is an iOS mobile application development workspace.
@@ -15,33 +15,33 @@ This section includes three categories:
 ```
 
 
-## Tutorials [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/tutorials-icon.png">](https://github.com/iamnadhu/n14-ios)
+## Tutorials [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/tutorials-icon.png">](https://github.com/iamnadhu/iOS-N14)
 >
-> [01. My First Playground](https://github.com/iamnadhu/n14-ios/tree/master/tutorials/My%20First%20Playground)
+> [01. My First Playground](https://github.com/iamnadhu/iOS-N14/tree/master/tutorials/My%20First%20Playground)
 >
-> [02. My First App](https://github.com/iamnadhu/n14-ios/tree/master/tutorials/My%20First%20App)
+> [02. My First App](https://github.com/iamnadhu/iOS-N14/tree/master/tutorials/My%20First%20App)
 >
-> [03. App](https://github.com/iamnadhu/n14-ios)
->
-
-
-## Sessions [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/sessions-icon.png">](https://github.com/iamnadhu/n14-ios)
->
-> [01. App](https://github.com/iamnadhu/n14-ios)
->
-> [02. App](https://github.com/iamnadhu/n14-ios)
->
-> [03. App](https://github.com/iamnadhu/n14-ios)
+> [03. App](https://github.com/iamnadhu/iOS-N14)
 >
 
 
-## Projects [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/projects-icon.png">](https://github.com/iamnadhu/n14-ios)
+## Sessions [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/sessions-icon.png">](https://github.com/iamnadhu/iOS-N14)
 >
-> [01. App](https://github.com/iamnadhu/n14-ios)
+> [01. App](https://github.com/iamnadhu/iOS-N14)
 >
-> [02. App](https://github.com/iamnadhu/n14-ios)
+> [02. App](https://github.com/iamnadhu/iOS-N14)
 >
-> [03. App](https://github.com/iamnadhu/n14-ios)
+> [03. App](https://github.com/iamnadhu/iOS-N14)
+>
+
+
+## Projects [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/projects-icon.png">](https://github.com/iamnadhu/iOS-N14)
+>
+> [01. App](https://github.com/iamnadhu/iOS-N14)
+>
+> [02. App](https://github.com/iamnadhu/iOS-N14)
+>
+> [03. App](https://github.com/iamnadhu/iOS-N14)
 >
 
 
@@ -63,5 +63,5 @@ Show your support!
 Please ⭐️   this repository if this section helped you!
 
 
-## License  [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/license-icon.png">](https://github.com/iamnadhu/n14-ios)
+## License  [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/license-icon.png">](https://github.com/iamnadhu/iOS-N14)
 Copyright © 2021 [Nadir Shah (Nadhu)](https://github.com/iamnadhu)
