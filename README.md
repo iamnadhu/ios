@@ -17,9 +17,9 @@ This section includes three categories:
 
 ## Tutorials [<img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/tutorials-icon.png">](https://github.com/iamnadhu/iOS-N14)
 >
-> [01. My First Playground](https://github.com/iamnadhu/iOS-N14)
+> [01. App](https://github.com/iamnadhu/iOS-N14)
 >
-> [02. My First App](https://github.com/iamnadhu/iOS-N14)
+> [02. App](https://github.com/iamnadhu/iOS-N14)
 >
 > [03. App](https://github.com/iamnadhu/iOS-N14)
 >
