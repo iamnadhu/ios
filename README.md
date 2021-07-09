@@ -24,7 +24,6 @@ This section includes three categories:
 > [03. App](https://github.com/iamnadhu/iOS-N14)
 >
 
-
 ### #02: Sessions <img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/sessions-icon.png">
 >
 > [01. App](https://github.com/iamnadhu/iOS-N14)
@@ -33,7 +32,6 @@ This section includes three categories:
 >
 > [03. App](https://github.com/iamnadhu/iOS-N14)
 >
-
 
 ### #03: Projects <img src="https://github.com/iamnadhu/Utilities-N14/blob/main/icons/projects-icon.png">
 >
