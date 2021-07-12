@@ -1,0 +1,53 @@
+# Dicee UI  [<img src="https://github.com/iamnadhu/n14-icons/blob/master/ios-icon.png">](https://github.com/iamnadhu/iOS-Udemy/tree/main/Projects/Dicee%20UI%20App)
+Created by [Nadir Shah](https://github.com/iamnadhu)
+
+
+## Project Includes [<img src="https://github.com/iamnadhu/n14-icons/blob/master/projects-icon.png">](https://github.com/iamnadhu/iOS-Udemy/tree/main/Projects/Dicee%20UI%20App)
+
+#### Things learn:
+```
+- Size classes and orientation
+- Understand Constraints
+- Learn about alignment and pinning
+- Use containers for more fine grained control
+- Learn about StackViews
+```
+
+#### Extras:
+```
+- Auto Layout - Landscape / Portrait
+- Constraints - Top, Bottom, Left, Right
+- Safe Area / Super View
+- Alignment - Horizontal / Vertical
+- View / StackView - Fill Equally, Fill Proportionally etc...
+```
+
+
+#### Screenshots:
+[<img src="https://github.com/iamnadhu/iOS-Udemy/blob/main/Projects/Dicee%20UI%20App/Resources/01.png">](https://github.com/iamnadhu/iOS-Udemy/tree/main/Projects/Dicee%20UI%20App)
+[<img src="https://github.com/iamnadhu/iOS-Udemy/blob/main/Projects/Dicee%20UI%20App/Resources/03.png">](https://github.com/iamnadhu/iOS-Udemy/tree/main/Projects/Dicee%20UI%20App)
+[<img src="https://github.com/iamnadhu/iOS-Udemy/blob/main/Projects/Dicee%20UI%20App/Resources/05.png">](https://github.com/iamnadhu/iOS-Udemy/tree/main/Projects/Dicee%20UI%20App)
+[<img src="https://github.com/iamnadhu/iOS-Udemy/blob/main/Projects/Dicee%20UI%20App/Resources/02.png">](https://github.com/iamnadhu/iOS-Udemy/tree/main/Projects/Dicee%20UI%20App)
+[<img src="https://github.com/iamnadhu/iOS-Udemy/blob/main/Projects/Dicee%20UI%20App/Resources/04.png">](https://github.com/iamnadhu/iOS-Udemy/tree/main/Projects/Dicee%20UI%20App)
+
+
+## Author  [<img src="https://github.com/iamnadhu/n14-icons/blob/master/auther-icon.png">](https://github.com/iamnadhu)
+Created by [Nadir Shah](https://github.com/iamnadhu)
+
+[<img src="https://github.com/iamnadhu/n14-icons/blob/master/nadhu-pic-new.jpg">](https://github.com/iamnadhu)
+
+Follow me on: 
+
+[<img src="https://github.com/iamnadhu/n14-icons/blob/master/instagram-icon.png">](https://www.instagram.com/iamnadhu/)
+[<img src="https://github.com/iamnadhu/n14-icons/blob/master/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
+[<img src="https://github.com/iamnadhu/n14-icons/blob/master/linkedin-icon.png">](https://www.linkedin.com/in/iamnadhu/)
+[<img src="https://github.com/iamnadhu/n14-icons/blob/master/facebook-icon.png">](https://www.facebook.com/iamnadhu/)
+[<img src="https://github.com/iamnadhu/n14-icons/blob/master/telegram-icon.png">](https://t.me/iamnadhu)
+
+Show your support!
+
+Please ⭐️   this repository if this section helped you!
+
+
+## License  [<img src="https://github.com/iamnadhu/n14-icons/blob/master/license-icon.png">](https://github.com/iamnadhu/iOS-Udemy/tree/main/Projects/Dicee%20UI%20App)
+Copyright © 2021 [Nadir Shah](https://github.com/iamnadhu)
