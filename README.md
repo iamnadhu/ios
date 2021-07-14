@@ -23,32 +23,32 @@ This repository consist of four categories:
 
 ### #01 Core [<img src="https://github.com/iamnadhu/iOS/blob/master/Resources/tutorials-icon.png">](https://github.com/iamnadhu/iOS)
 >
-> [01. My First App](https://github.com/iamnadhu/iOS/tree/main/Core/My%20First%20App)
+> [01. My First App](https://github.com/iamnadhu/iOS/tree/master/Core/My%20First%20App)
 >
-> [02. Login UI App](https://github.com/iamnadhu/iOS/tree/main/Core/Login%20UI%20App)
+> [02. Login UI App](https://github.com/iamnadhu/iOS/tree/master/Core/Login%20UI%20App)
 >
 
 ### #02 Advance [<img src="https://github.com/iamnadhu/iOS/blob/master/Resources/sessions-icon.png">](https://github.com/iamnadhu/iOS)
 >
-> [01. Touch App](https://github.com/iamnadhu/iOS/tree/main/Advance/Touch%20App)
+> [01. Touch App](https://github.com/iamnadhu/iOS/tree/master/Advance/Touch%20App)
 >
-> [02. Swipe App](https://github.com/iamnadhu/iOS/tree/main/Advance/Swipe%20App)
+> [02. Swipe App](https://github.com/iamnadhu/iOS/tree/master/Advance/Swipe%20App)
 >
 
 ### #03 Projects [<img src="https://github.com/iamnadhu/iOS/blob/master/Resources/projects-icon.png">](https://github.com/iamnadhu/iOS)
 >
-> [01. Chat App](https://github.com/iamnadhu/iOS/tree/main/Projects/Chat%20App)
+> [01. Chat App](https://github.com/iamnadhu/iOS/tree/master/Projects/Chat%20App)
 >
-> [02. Shopping App](https://github.com/iamnadhu/iOS/tree/main/Projects/Shopping%20App)
+> [02. Shopping App](https://github.com/iamnadhu/iOS/tree/master/Projects/Shopping%20App)
 >
-> [03. Restaurant App](https://github.com/iamnadhu/iOS/tree/main/Projects/Restaurant%20App)
+> [03. Restaurant App](https://github.com/iamnadhu/iOS/tree/master/Projects/Restaurant%20App)
 >
-> [04. Blog App](https://github.com/iamnadhu/iOS/tree/main/Projects/Blog%20App)
+> [04. Blog App](https://github.com/iamnadhu/iOS/tree/master/Projects/Blog%20App)
 >
 
 ### #04 Extras [<img src="https://github.com/iamnadhu/iOS/blob/master/Resources/extras-icon.png">](https://github.com/iamnadhu/iOS)
 >
-> [01. Udemy](https://github.com/iamnadhu/iOS/tree/main/Extras/Udemy)
+> [01. Udemy](https://github.com/iamnadhu/iOS/tree/master/Extras/Udemy)
 >
 
 
