@@ -1,4 +1,4 @@
-# iOS [<img src="https://github.com/iamnadhu/iOS/tree/master/Resources/iOS-icon.png">](https://github.com/iamnadhu/iOS)
+# iOS [<img src="https://github.com/iamnadhu/iOS/blob/master/Resources/ios-icon.png">](https://github.com/iamnadhu/iOS)
 Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 This is a 'iOS' mobile application development workspace.
@@ -21,7 +21,7 @@ This repository consist of four categories:
 ```
 
 
-### #01 Core [<img src="https://github.com/iamnadhu/iOS/tree/master/Resources/tutorials-icon.png">](https://github.com/iamnadhu/iOS)
+### #01 Core [<img src="https://github.com/iamnadhu/iOS/blob/master/Resources/tutorials-icon.png">](https://github.com/iamnadhu/iOS)
 >
 > [01. My First App](https://github.com/iamnadhu/iOS/tree/main/Core/My%20First%20App)
 >
